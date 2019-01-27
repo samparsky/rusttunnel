@@ -1,0 +1,7 @@
+[package]
+name = "rusttunnel"
+version = "0.1.0"
+authors = ["Samparsky <>"]
+edition = "2018"
+
+[dependencies]
